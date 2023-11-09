@@ -74,5 +74,8 @@ footer {
     width: 100%;
 }
 img{
-    width: 50%;
+    
+    max-width: 15%;
+    margin-left: 50%;
+    margin-right: 50%;
 }
